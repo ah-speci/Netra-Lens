@@ -47,6 +47,6 @@ This project is built using modern Android development practices and strict MVVM
 ![IMG-20251207-WA0009](https://github.com/user-attachments/assets/f7d6d7be-ca93-43ea-ab1c-790042585091)
 ![IMG-20251207-WA0013](https://github.com/user-attachments/assets/cc40960c-01e6-43ea-b525-3e423dc71d3d)
 
-### Developed by Nikhil Mahajan Information Science Student & Android Developer
->>>>>>> 66609b2d5f1fcee4a1d668353b5f376c2eb13163
+### Developed by Sahil Chandra Information Science Student
+>>>>>>>
 
